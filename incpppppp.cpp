@@ -1,7 +1,7 @@
 class and object
 
 class : A class is a user-defined data type that we can use in our program, and it works as an object constructor, or a "blueprint" for creating objects.
-
+    
 object : An object is an instance of a class
 
 #include <bits/stdc++.h>
